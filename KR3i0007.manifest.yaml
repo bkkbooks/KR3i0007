@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR3i0007/v1
+canonical_location: https://kanripo.org/bkk/KR3i0007/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 硯譜
+  date: '2015-08-24 23:17:21.158310'
+  source:
+    repository: kanripo
+    path: KR3i0007
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0007_000.yaml, hash: 'sha256:5fc54573ac60b0c2ae2fa26cdcc6b2282e4b9dd86d4ef09619aaa66c8d30c788'}
+  - {seq: 1, filename: KR3i0007_001.yaml, hash: 'sha256:bb9eb15654b97328c81397a9cf401dda7ff94d2b29e46bddcd3635b426a96e24'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3i0007_001.markers.yaml, hash: 'sha256:0711431c991df4849014233d0c191287fcdb421461abe2ee08d665a223ce7399'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3i0007_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2053
+  label: 硯譜
+  type: section
+  level: 1
+hash: sha256:7d1c32f2085edfda9036715c9d77bd7e19a3c41ca730389c2ec0c58f57441031
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
