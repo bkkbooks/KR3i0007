@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3i0007_000-WYG.yaml, hash: 'sha256:c18ea2e2e520f8af59b9307305c76cff2ddbb1312d4ab682e759ac17c9f74928'}
   - {seq: 1, filename: KR3i0007_001-WYG.yaml, hash: 'sha256:3bee23426b946c7043e0fb6ac2bef20c5c787e0de0435e2b8137af5bd848ac0f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3i0007_001-WYG.markers.yaml, hash: 'sha256:6609d9be1ce575bca864ce924cfd37ef17ed07d9164c1f681a1a46563001ca36'}
+  - {seq: 1, role: markers, filename: assets/KR3i0007_001-WYG.markers.yaml, hash: 'sha256:ac60afcd935d702cdf882fcb58ceb5ef7513051786add5b0f02613d4be96b0b7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,4 @@ table_of_contents:
   label: 硯譜
   type: section
   level: 1
-hash: sha256:efb53a65ffbc0c1732676bee630620ed947e0ca66de071d6f0e7b18cbc91b25d
+hash: sha256:50d8cde9bca9bb319edf1a3a218f73e01fd98d90e512ebd8742bb52ab9e58adb
